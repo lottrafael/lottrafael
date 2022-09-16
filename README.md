@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lottrafael (Rafael Lott).
+- 👀 I’m interested in Big Data, Artificial Inteligence and Automation. Currently I have around 6 yrs experience with Backend (Python/Flask/Django/GCP).
+- 🌱 I’m currently learning VueJS and AWS.
+- 💞️ I’m looking to collaborate on wherever I can help with, either Backend or Frontend, just show me the way and I will follow the path.
+- 📫 How to reach me via email rafael.lott@alayacare.com or in Slack.
